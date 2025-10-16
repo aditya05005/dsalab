@@ -74,9 +74,9 @@ void display() {
 }
 
 int main() {
-    insertAtEnd(10);
-    insertAtEnd(20);
-    insertAtBeginning(5);
+    insertAtEnd(59);
+    insertAtEnd(118);
+    insertAtBeginning(177);
     display();
 
     deleteFromBeginning();
