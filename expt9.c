@@ -74,10 +74,10 @@ int main() {
 
     // Insert nodes
     root = insert(root, 50);
-    insert(root, 30);
-    insert(root, 20);
-    insert(root, 40);
-    insert(root, 70);
+    insert(root, 59);
+    insert(root, 118);
+    insert(root, 295);
+    insert(root, 177);
     insert(root, 60);
     insert(root, 80);
 
