@@ -27,16 +27,16 @@ int binarySearch(char arr[][LEN], int size, char target[]) {
 int main() {
     // Sorted list of names (like a phonebook)
     char phonebook[MAX][LEN] = {
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eve",
-        "Frank",
-        "Grace",
-        "Heidi",
-        "Ivan",
-        "Judy"
+        "Aditya",
+        "Arkam",
+        "Madhavan",
+        "Sahil",
+        "Harsh",
+        "Jaideep",
+        "MRINAL",
+        "Rittam",
+        "Ayush",
+        "Aryaman"
     };
 
     char name[LEN];
